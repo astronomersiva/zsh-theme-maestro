@@ -4,7 +4,7 @@
 
 I intended to create something visually similar to the impressive [night owl theme](https://github.com/sdras/night-owl-vscode-theme) and with some of the best functionality that several themes provide but at the same time remain uncluttered.
 
-![Hello](screenshots/hello.png)
+![Hello](screenshots/sample.png)
 
 It has the following features:
 
